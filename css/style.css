@@ -12,7 +12,13 @@ body {
   box-shadow: 0 4px 0.5rem rgb(0 0 0 / 30%);
 }
 
+.arrow .fa-solid {
+  color: #000;
+}
 
+.arrow .fa-solid:visited {
+  color: #000;
+}
 
 /* LOADER */
 .page-loader {
